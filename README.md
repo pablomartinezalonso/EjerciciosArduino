@@ -34,4 +34,10 @@ Ejercicios con Arduino Nano
 3. Conectamos una resistencia al GND
 4. Conectamos el Arduino Nano mediante un cable USB al ordenador
 5. Verificamos y subimos el codigo al Arduino mediante el programa Arduino IDE
-6.Mediante el codigo el servo se mueve cada vez que pulsamos el interruptor
+6. Mediante el codigo el servo se mueve cada vez que pulsamos el interruptor
+
+## Ejercicio 6:
+1. Conectamos el sensor de proximidad usando los pines (Potencia: 5V / Señal: D12 / Señal: D11 / Tierra: GND), un led y una resistencia
+2. Conectamos el Arduino Nano mediante un cable USB al ordenador
+3. Verificamos y subimos el codigo al Arduino mediante el programa Arduino IDE
+4. Mediante el codigo el sensor detecta cualquier objeto haciendo que se encienda el led
