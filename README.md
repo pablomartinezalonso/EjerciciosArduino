@@ -41,3 +41,9 @@ Ejercicios con Arduino Nano
 2. Conectamos el Arduino Nano mediante un cable USB al ordenador
 3. Verificamos y subimos el codigo al Arduino mediante el programa Arduino IDE
 4. Mediante el codigo el sensor detecta cualquier objeto haciendo que se encienda el led
+
+## Ejercicio Libre
+1. Investigamos como hacer lo que se nos propone en el ejercicio
+2. Conectamos un buzzer a los pines (Señal: D9 / Tierra: GND) y tres leds en D8, D7 y D6
+3. Creamos el codigo para que encienda un led distinto cada vez que suena una nota
+4. Conectamos el Arduino Nano al ordenador mediante el USB y subimos el codigo
